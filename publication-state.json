@@ -1,0 +1,23 @@
+{
+  "schema": "atlas-reference-data-publication-state-v4",
+  "dataset": "tnds",
+  "bankId": "A",
+  "rootId": "A1",
+  "publicationVersion": "35352167115-c670698dbf709a953d15b3927ee677fb502d1b3a",
+  "generatedAt": "2026-09-18T13:46:55Z",
+  "lifecycle": "candidate-ready",
+  "regions": [
+    "SE",
+    "Y"
+  ],
+  "candidate": {
+    "fileCount": 184,
+    "bytes": 812412385,
+    "sha256": "4015533f6c98855fb9b095e185b2182fac8a6ede39718ec4c7dc0b7f6298f89d"
+  },
+  "safetyLimitBytes": 900000000,
+  "audit": {
+    "current": "audit/current.json",
+    "previous": "audit/previous.json"
+  }
+}
